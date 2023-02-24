@@ -15,6 +15,7 @@ export default function  Hola (){
                 onClick={suma}
                 className="bg-blue-400
                 p-2 px-4 rounded-full 
+                m-2
                 focus:outline-none
                 focus:ring-2
                 focus:ring-offset-2
@@ -23,6 +24,7 @@ export default function  Hola (){
                 Sumar
             </button>
             <div className="">Hola</div>
+            
         </>
     )
 }
